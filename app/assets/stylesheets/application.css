@@ -17,7 +17,7 @@
  *= require magnific-popup
  *= require ultm
  *= require form-elements
- *= require style
+ *= require code/style
  *= require media-queries
 
  *= require_tree .
